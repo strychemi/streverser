@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{String reversal gem.}
   spec.description   = %q{Reverses a string.}
-  spec.homepage      = "https://github.com/strychemi/stryreverser"
+  spec.homepage      = "https://github.com/strychemi/stryreverser.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
