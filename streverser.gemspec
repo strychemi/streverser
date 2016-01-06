@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "streverser"
   spec.version       = Streverser::VERSION
   spec.authors       = ["Andrew Baik"]
-  spec.email         = ["test@exampledotcom"]
+  spec.email         = ["and.baik@gmail.com"]
 
   spec.summary       = %q{String reversal gem.}
   spec.description   = %q{Reverses a string.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/strychemi/streverser"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
